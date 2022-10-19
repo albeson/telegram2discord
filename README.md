@@ -1,2 +1,2 @@
-# telegram2discord
-Notification Telegran to Discord
+# Windows Terminal
+
